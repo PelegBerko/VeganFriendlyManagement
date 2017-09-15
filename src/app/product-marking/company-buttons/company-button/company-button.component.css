@@ -1,0 +1,28 @@
+.company-button {
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    color: #000000;
+    font-family: David;
+    border-width: 2px;
+    /*padding: 1.2% 38%;*/
+    background-color: aliceblue;
+
+    position: absolute;
+    margin: auto;
+    right: 0;
+    left: 0;
+    width: 92%;
+    height: 52px;
+}
+
+.company-button-vf-marked {
+    background-color: #009040;
+}
+
+.selected-company-button {
+    background-color: #60ffee;
+}
+
+.centered {
+}
